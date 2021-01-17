@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello ~ Here is a super lazy developer ~
 
-<!--
-**UnknownMistyRain/UnknownMistyRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@UnknownMistyRain-%23181717?style=flat-square&logo=github)](https://github.com/UnknownMistyRain)
 
-Here are some ideas to get you started:
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=UnknownMistyRain&count_private=true&show_icons=true&theme=radical)](https://github.com/UnknownMistyRain)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMistyRain&theme=radical)](https://github.com/UnknownMistyRain)
+
+## How to chat with me ?
+
+```text
+Email: mistyraincloudservice@gmail.com
+Website: mistyra.in
+```
