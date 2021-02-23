@@ -1,10 +1,10 @@
 # Hello ~ Here is a super lazy developer ~
 
-[![](https://img.shields.io/badge/-@SaigirPillow-%23181717?style=flat-square&logo=github)](https://github.com/SaigirPillow)
+[![](https://img.shields.io/badge/-@SaigiriPillow-%23181717?style=flat-square&logo=github)](https://github.com/SaigiriPillow)
 
-[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=SaigirPillow&count_private=true&show_icons=true&theme=radical)](https://github.com/SaigirPillow)
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=SaigiriPillow&count_private=true&show_icons=true&theme=radical)](https://github.com/SaigiriPillow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaigirPillow&theme=radical)](https://github.com/SaigirPillow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaigiriPillow&theme=radical)](https://github.com/SaigiriPillow)
 
 ## How to chat with me ?
 
